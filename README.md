@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
 </p>
  
-### Hi there 👋
+### About Me?
 
 - 🔭 I’m currently working on native android application development
 - 🌱 I’m currently learning Flutter
@@ -39,6 +39,7 @@
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
 
 
 
@@ -49,7 +50,10 @@
 <!-- social media -->
 [@vijay_ragu14]: https://twitter.com/vijay_ragu14
 [twitter]: https://twitter.com/vijay_ragu14
-
-<!-- url -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin
+[instagram-url]: https://www.instagram.com/the_name_is_vijay_ragu/
 [linkedin-url]: https://www.linkedin.com/in/vijay-guru-95b4b070/
+
+<!-- shield -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin
+[instagram-shield]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
+
