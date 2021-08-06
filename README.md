@@ -10,7 +10,6 @@
 - 💬 Ask me about Android Jetpack Components
 - 📫 How to reach me: Twitter - [@vijay_ragu14], e-mail - vg4029@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Interested in photography
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=thenameisvijay&color=brightgreen" alt="watching_count" />
