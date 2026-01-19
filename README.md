@@ -6,8 +6,8 @@
 ### About Me?
 
 - 🔭 I’m currently working on native android application development
-- 🌱 I’m currently learning Spring Boot, Flutter
-- 💬 Ask me about Android Jetpack Components
+- 🌱 I’m currently learning Jetpack Compose, Flutter
+- 💬 Ask me about Android & Raspberry Pi (Home Automation)
 - 📫 How to reach me: Twitter - [@vijay_ragu14], e-mail - vg4029@gmail.com
 - 😄 Pronouns: He/His
 
